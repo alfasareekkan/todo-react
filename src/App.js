@@ -41,6 +41,7 @@ function App() {
     AMorPM;
   const toDoTimeDateDay = toDoTime + " " + toDoDay + " " + toDoDate;
 
+  console.log('first')
   return (
     <div className="App">
       <div className="main-heder">
